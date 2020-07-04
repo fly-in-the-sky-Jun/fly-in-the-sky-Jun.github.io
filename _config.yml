@@ -1,7 +1,7 @@
 # Site settings
 title: Jun-Sky
 SEOTitle: Jun-Sky | 同一片天空
-header-img: img/post-bg-desk.jpg
+header-img: https://cdn.jsdelivr.net/gh/fly-in-the-sky-Jun/fly-in-the-sky-Jun.github.io@master/img/post-bg-desk.jpg/
 email: i@r3r.top
 description: "在此，分享你的航拍！"
 keyword: "航拍,无人机,DJI,社区,分享,飞行,Jun,JunJun,Jun-Sky"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "在这里，你能方便的分享你的航拍，方便的与其他用户交流。"
-sidebar-avatar: https://cdn.jsdelivr.net/gh/fly-in-the-sky-Jun/fly-in-the-sky-Jun.github.io@master/img/about-BY-gentle.jpg/      # use absolute URL, seeing it's used in both `/` and `/about/`
+#sidebar-avatar: https://cdn.jsdelivr.net/gh/fly-in-the-sky-Jun/fly-in-the-sky-Jun.github.io@master/img/about-BY-gentle.jpg/      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
