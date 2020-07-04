@@ -61,7 +61,7 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: 58fc7e1c4a1077bc31b6                            #生成的clientID
   clientSecret: bbb2761ec7e9840221aa290a6a0ed7523d144470    #生成的clientSecret
   repo: fly-in-the-sky-Jun.github.io   #仓库名称
